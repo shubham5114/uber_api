@@ -1,6 +1,5 @@
 uvicorn
 fastapi
-pickle
 pandas 
 numpy 
 matplotlib.pyplot 
@@ -9,3 +8,4 @@ train_test_split
 LinearRegression
 Nominatim
 r2_score
+pickle
