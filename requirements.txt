@@ -1,0 +1,11 @@
+uvicorn
+fastapi
+pickle
+pandas 
+numpy 
+matplotlib.pyplot 
+StandardScaler
+train_test_split
+LinearRegression
+Nominatim
+r2_score
