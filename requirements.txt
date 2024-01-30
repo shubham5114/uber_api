@@ -7,5 +7,4 @@ StandardScaler
 sklearn
 LinearRegression
 Nominatim
-r2_score
 pickle
