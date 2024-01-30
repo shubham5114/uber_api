@@ -7,4 +7,5 @@ StandardScaler
 scikit-learn
 LinearRegression
 geopy
+seaborn
 
