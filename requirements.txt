@@ -6,5 +6,5 @@ matplotlib
 StandardScaler
 sklearn
 LinearRegression
-Nominatim
+geopy
 pickle
