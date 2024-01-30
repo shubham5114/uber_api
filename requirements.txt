@@ -2,7 +2,7 @@ uvicorn
 fastapi
 pandas 
 numpy 
-matplotlib.pyplot 
+matplotlib
 StandardScaler
 train_test_split
 LinearRegression
