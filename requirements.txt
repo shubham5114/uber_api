@@ -4,7 +4,7 @@ pandas
 numpy 
 matplotlib
 StandardScaler
-sklearn
+scikit-learn
 LinearRegression
 geopy
 pickle
