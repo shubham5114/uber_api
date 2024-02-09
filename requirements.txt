@@ -1,11 +1,8 @@
 uvicorn
 fastapi
-pickle
+pickle4
 pandas 
 numpy 
-matplotlib.pyplot 
-StandardScaler
-train_test_split
-LinearRegression
-Nominatim
-r2_score
+matplotlib 
+scikit-learn
+geopy
